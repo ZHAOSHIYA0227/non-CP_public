@@ -1,0 +1,51 @@
+COM_pdr	.	"Food and nonalcoholic beverages"	1
+COM_wht	.	"Food and nonalcoholic beverages"	1
+COM_gro	.	"Food and nonalcoholic beverages"	1
+COM_osd	.	"Food and nonalcoholic beverages"	1
+COM_c_b	.	"Food and nonalcoholic beverages"	1
+COM_oth_a	.	"Food and nonalcoholic beverages"	1
+COM_ECR	.	"Food and nonalcoholic beverages"	1
+COM_ctl	.	"Food and nonalcoholic beverages"	1
+COM_rmk	.	"Food and nonalcoholic beverages"	1
+COM_oth_l	.	"Food and nonalcoholic beverages"	1
+*COM_FRS	.	"Miscellaneous goods and services"	1
+COM_COA	.	"Housing, water, electricity, gas and other fuels"	1
+COM_OIL	.	"Housing, water, electricity, gas and other fuels"	1
+COM_GAS	.	"Housing, water, electricity, gas and other fuels"	1
+*COM_OMN	.	"Miscellaneous goods and services"	1
+COM_FPR	.	"Food and nonalcoholic beverages"	0.5
+COM_FPR	.	"Alcoholic beverages, tobacco, and narcotics"	0.5
+COM_LIN	.	"Clothing and footwear"	1
+*COM_PPP	.	"Miscellaneous goods and services"	1
+*COM_CRP	.	"Miscellaneous goods and services"	1
+COM_COP	.	"Housing, water, electricity, gas and other fuels"	1
+COM_P_P	.	"Housing, water, electricity, gas and other fuels"	1
+COM_BIO	.	"Housing, water, electricity, gas and other fuels"	1
+*COM_NMM	.	"Miscellaneous goods and services"	1
+*COM_I_S	.	"Miscellaneous goods and services"	1
+*COM_NFM	.	"Miscellaneous goods and services"	1
+COM_OMF	.	"Furnishings, household equipment and maintenance"	1
+COM_ELY	.	"Housing, water, electricity, gas and other fuels"	1
+COM_GDT	.	"Housing, water, electricity, gas and other fuels"	1
+COM_CNS	.	"Furnishings, household equipment and maintenance"	1
+COM_TRS	.	"Transport"	1
+COM_TRS	.	"Communication"	1
+COM_CSS	.	"Health"	1
+COM_CSS	.	"Recreation and culture"	1
+COM_CSS	.	"Education"	1
+COM_CSS	.	"Restaurants"	1
+COM_CSS	.	"Hotels"	1
+COM_CSS	.	"Restaurants and hotels"	1
+COM_CSS	.	"Housing, water, electricity, gas and other fuels"	0.2
+COM_CSS	.	"Miscellaneous goods and services"	1
+
+COM_COA	.	"Energy"	1
+COM_OIL	.	"Energy"	1
+COM_GAS	.	"Energy"	1
+COM_COP	.	"Energy"	1
+COM_P_P	.	"Energy"	1
+COM_BIO	.	"Energy"	1
+COM_ELY	.	"Energy"	1
+COM_GDT	.	"Energy"	1
+COM_CNS	.	"Housing and water"	1
+COM_CSS	.	"Housing and water"	1
